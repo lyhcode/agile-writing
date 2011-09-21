@@ -19,12 +19,12 @@ HTML (Hypertext Markup Language) 就是撰寫網頁使用的格式，
 1. 純文字編輯
 2. 使用瀏覽器即可看到排版結果
 
-例如一個標題加上段落文字：::
+例如一個標題加上段落文字： ::
 
 	<h1>這是大標題</h1>
 	<p>這是一個段落，內容不重要。</p>
 
-我們也可以強調一段文字：::
+我們也可以強調一段文字： ::
 
 	<p>這是一個段落，並且<strong>強調這段文字</strong>。</p>
 
@@ -81,7 +81,7 @@ Mediawiki [#Mediawiki]_ 就是知名網站「維基百科 (Wikipedia [#Wikipedia
 .. [#Mediawiki] http://mediawiki.org/
 .. [#Wikipedia] http://wikipedia.org/
 
-範例：::
+範例： ::
 
 	== 大標題 ==
 	
@@ -109,7 +109,7 @@ Markdown [#MarkdownOfficial]_ 的目標是實現「易讀易寫」的 **純文�
 使用 Markdown 撰寫文件時，「內容」是主角，搭配簡單常用的符號或空格，
 讓文件不用經過其他工具處理，直接純文字格式發佈，也能保有良好的可讀性。
 
-範例：::
+範例： ::
 
 	大標題
 	======
