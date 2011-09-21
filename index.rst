@@ -3,9 +3,9 @@
    Yan-hong Lin <lyhcode@gmail.com>
    Blog <http://blog.lyhdev.com/>
 
-***************************************
-Zen of Technical Writing 敏捷技術寫作之道
-***************************************
+**************************************
+Agile Technical Writing 敏捷技術寫作之道
+**************************************
 
 .. toctree::
    :maxdepth: 3
