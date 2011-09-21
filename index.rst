@@ -7,8 +7,6 @@
 Zen of Technical Writing 敏捷技術寫作之道
 ***************************************
 
-Contents:
-
 .. toctree::
    :maxdepth: 3
 
