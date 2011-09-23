@@ -47,4 +47,4 @@ Agile Technical Writing: Programmer's guide to lean publishing
 
 	http://goo.gl/ziXed
 
-.. [#Sphinx-cook] 是筆者的另一項軟體專案
+.. [#SphinxCook] 是筆者的另一項軟體專案
