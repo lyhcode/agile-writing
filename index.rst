@@ -23,7 +23,9 @@ Agile Technical Writing 敏捷技術寫作
 
    preface
    copyright
+   README
    syntax
+   thesis
    sphinx
 
 Indices and tables
