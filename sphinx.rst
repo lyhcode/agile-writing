@@ -8,4 +8,6 @@
    sphinx_install
    sphinx_quickstart
    sphinx_firstlook
+   sphinx_xelatex
    sphinx_watchr
+   sphinx_cook

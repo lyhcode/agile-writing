@@ -1,7 +1,8 @@
 使用 watchr
 -----------
 
-安裝::
+安裝 ::
+
 	gem install watchr
 
 	Successfully installed watchr-0.7

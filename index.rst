@@ -27,6 +27,8 @@ Agile Technical Writing 敏捷技術寫作
    syntax
    thesis
    sphinx
+   version
+   cooker
 
 Indices and tables
 ==================
